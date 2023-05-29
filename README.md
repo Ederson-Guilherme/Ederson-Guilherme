@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do Ederson-Guilherme 😁
+## Bem-vindo(a) ao perfil do Dev em Dobro 😁
 
  <div>
-   <a href="https://github.com/ederson-guilherme">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ederson-guilherme&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/Ederson-Guilherme">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ederson-Guilherme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ederson-Guilherme&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -14,11 +14,15 @@
  
  <br>
  
+  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+ 
 <div> 
+  <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ederson_rodrigues1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/Edersongrs#5487" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:ederson.grs2@gmsil.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   
-  ![Snake animation](https://github.com/ederson-guilherme/ederson-guilherme/blob/output/github-contribution-grid-snake.svg)
+ <a href="https://discord.gg/XCHhV4MH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:ederson.grs2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ederson-santos-080485181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/Ederson-Guilherme/Ederson-Guilherme/blob/output/github-contribution-grid-snake.svg)
 
 </div>
